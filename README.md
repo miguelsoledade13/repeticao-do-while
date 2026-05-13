@@ -92,5 +92,4 @@ alert("Pedido finalizado. Total: R$ " + total.toFixed(2));
 
 <img width="374" height="498" alt="Sans6GIF" src="https://github.com/user-attachments/assets/f0011fa4-9b97-4317-a7de-47dedfd150a4" />
 
-
-<img width="374" height="498" alt="67BunnyGIF (2)" src="https://github.com/user-attachments/assets/2e047ccb-d9b4-44e8-a33f-fa76684f2576" />
+<img width="374" height="498" alt="67BunnyGIF (3)" src="https://github.com/user-attachments/assets/afe0ae0f-f8ce-44d9-881b-ca773b1780af" />
